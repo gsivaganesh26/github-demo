@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hii this is file1
+=======
+Hii, this is first file in second branch.
+>>>>>>> 8d56e97 (File1 added in second branch)
